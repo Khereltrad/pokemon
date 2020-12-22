@@ -1,0 +1,18 @@
+.pokeframe{
+  border: outset;
+  border-radius: 17px;
+  background: rgba(242,242,242,1);
+  margin: 5px;
+}
+#cuerpo{
+  background-color: antiquewhite;
+  padding: 15px 35px 15px 35px;
+}
+#pokecrp{
+  place-content: center;
+}
+#encabezado{
+  height: 175px;
+  background-image: url(pokmeonbaner.jpg);
+  background-position-y: center;
+}
